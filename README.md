@@ -1,2 +1,0 @@
-# OasisAvatarModul
-OasisAvatarModul
